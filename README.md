@@ -1,4 +1,4 @@
-# Frameworks
+# Systems and Frameworks
 
 Also referred to as “CSS frameworks,” these are packages containing pre-written, standardized code in files and folders. They give you a base to build on while still allowing flexibility with the final design. Typically, front-end frameworks contain the following components:
 - A grid which makes it simple to organize the design elements of your website
