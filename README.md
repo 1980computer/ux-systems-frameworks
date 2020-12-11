@@ -70,12 +70,18 @@ Systems design is the process of defining the architecture, modules, interfaces,
 
 ---
 
+### Design Token Systems
+- [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/#/) •
+[SalesForce Theo](https://github.com/salesforce-ux/theo) •
+[Diez](https://diez.org/) •
+[Shopify Polaris Tokens](https://shopify.github.io/polaris-tokens/) •
+[React Design Tokens](https://react-design-tokens.netlify.app/) •
+
+---
+
 ### Frameworks (Web)
 
-Also referred to as “CSS frameworks,” these are packages containing pre-written, standardized code in files and folders. They give you a base to build on while still allowing flexibility with the final design. Typically, front-end frameworks contain the following components:
-- A grid which makes it simple to organize the design elements of your website
-- Defined font styles and sizing that varies based on its function (different typography for headings versus paragraphs, etc.)
-- Pre-built website components like side panels, buttons, and navigation bars
+Also referred to as “CSS frameworks,” these are packages containing pre-written, standardized code in files and folders. They give you a base to build on while still allowing flexibility with the final design. Typically, front-end frameworks contain the following components: (1) A grid which makes it simple to organize the design elements of your website. (2) Defined font styles and sizing that varies based on its function (different typography for headings versus paragraphs, etc.) (3) Pre-built website components like side panels, buttons, and navigation bars.
 
 CSS
 - [Tailwind CSS](https://tailwindcss.com/) •
@@ -100,7 +106,6 @@ REACT
 [Core UI](https://coreui.io/react/) •
 [Ant Design React](https://ant.design/) •
 [Shards](https://github.com/designrevision/shards-dashboard-react) •
-[Diez](https://diez.org/) •
 
 [More github resources](https://github.com/search?q=uilibrary)
 
@@ -113,11 +118,6 @@ REACT
 [Wix React Native](https://github.com/wix/react-native-ui-lib) •
 [React Native](https://reactnative.dev/) •
 [Ignite](https://github.com/infinitered/ignite)
-
----
-
-### Articles
-- []()
 
 ---
 
