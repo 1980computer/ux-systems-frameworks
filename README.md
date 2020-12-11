@@ -6,11 +6,6 @@ Systems design is the process of defining the architecture, modules, interfaces,
 
 ---
 
-### Articles
-- []()
-
----
-
 ### Design Systems
 - [US Gov](https://designsystem.digital.gov/) •
 [UK Gov](https://design-system.service.gov.uk/) •
@@ -74,13 +69,53 @@ Systems design is the process of defining the architecture, modules, interfaces,
 
 ---
 
-### Frameworks
+### Frameworks (Web)
 
 Also referred to as “CSS frameworks,” these are packages containing pre-written, standardized code in files and folders. They give you a base to build on while still allowing flexibility with the final design. Typically, front-end frameworks contain the following components:
 - A grid which makes it simple to organize the design elements of your website
 - Defined font styles and sizing that varies based on its function (different typography for headings versus paragraphs, etc.)
 - Pre-built website components like side panels, buttons, and navigation bars
-Depending on the specific framework you choose, there’s a lot more they are capable of as well.
+
+CSS
+- [Tailwind CSS](https://tailwindcss.com/) •
+[Bootstrap](https://getbootstrap.com/) •
+[Bulma](https://bulma.io/) •
+[Semantic UI](https://semantic-ui.com/) •
+[UI Kit](https://getuikit.com/)
+
+REACT
+- [Chakra UI](https://chakra-ui.com/) •
+[Bum Bag](https://bumbag.style/) •
+[Reactron](https://github.com/siddharthkp/reactron) •
+[Denali](https://denali.design/) •
+[Reakit](https://github.com/reakit/reakit) •
+[Reach UI](https://reach.tech/) •
+[Theme UI](https://theme-ui.com/) •
+[Grommet](https://v2.grommet.io/) •
+[React Bootstrap](https://react-bootstrap.netlify.app/) •
+[Modulz Radix](https://radix.modulz.app/docs/getting-started/) •
+[Tabler](https://github.com/tabler/tabler-react) •
+[React Semantic UI](https://react.semantic-ui.com/) •
+[Core UI](https://coreui.io/react/) •
+[Ant Design React](https://ant.design/) •
+[Shards](https://github.com/designrevision/shards-dashboard-react) •
+[Diez](https://diez.org/) •
+
+[More github resources](https://github.com/search?q=uilibrary)
+
+---
+
+### Frameworks (Native)
+
+- [React Native Boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) •
+[Native Base](https://nativebase.io/) •
+[Wix React Native](https://github.com/wix/react-native-ui-lib) •
+[React Native](https://reactnative.dev/) •
+[Ignite](https://github.com/infinitered/ignite)
+
+---
+
+### Articles
 - []()
 
 ---
