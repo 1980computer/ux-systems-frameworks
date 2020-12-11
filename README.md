@@ -1,6 +1,7 @@
 ## Systems and Frameworks
 
 Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development. In this repository, I will focus on design systems, brand systems, and developer frameworks to improve consistency, efficiency, and guidelines to improve quality.
+
 ![image](https://d33wubrfki0l68.cloudfront.net/2f840b6e10e564b5d896d9c67a19c3a34cba635e/61d5e/assets/images/index/ds-patrn-ocean.png)
 
 ---
