@@ -81,8 +81,6 @@ Systems design is the process of defining the architecture, modules, interfaces,
 
 ### Frameworks (Web)
 
-Also referred to as “CSS frameworks,” these are packages containing pre-written, standardized code in files and folders. They give you a base to build on while still allowing flexibility with the final design. Typically, front-end frameworks contain the following components: (1) A grid which makes it simple to organize the design elements of your website. (2) Defined font styles and sizing that varies based on its function (different typography for headings versus paragraphs, etc.) (3) Pre-built website components like side panels, buttons, and navigation bars.
-
 CSS
 - [Tailwind CSS](https://tailwindcss.com/) •
 [Bootstrap](https://getbootstrap.com/) •
