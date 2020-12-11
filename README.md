@@ -84,5 +84,5 @@ Depending on the specific framework you choose, there’s a lot more they are ca
 
 ---
 
-Made by [davidbanthony.com](https://davidbanthony.com)
+Made by [davidbanthony.com](https://davidbanthony.com) with [Patrn.Design Framework](https://patrn.design)
 
