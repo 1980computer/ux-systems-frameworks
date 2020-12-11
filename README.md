@@ -20,6 +20,7 @@ Systems design is the process of defining the architecture, modules, interfaces,
 [Rei Cedar](https://rei.github.io/rei-cedar-docs/) •
 [Orbit Kiwi](https://orbit.kiwi/) •
 [Pajamas](https://design.gitlab.com/) •
+[Morning Star](https://designsystem.morningstar.com/) •
 [Clarity](https://clarity.design/) •
 [Bolt](https://boltdesignsystem.com/) •
 [Github Primer](https://primer.style/) •
