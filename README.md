@@ -119,5 +119,5 @@ REACT
 
 ---
 
-Made by [davidbanthony.com](https://davidbanthony.com) with [Patrn.Design Framework](https://patrn.design)
+[Patrn.Design Framework](https://patrn.design)
 
